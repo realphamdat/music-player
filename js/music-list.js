@@ -40,11 +40,6 @@ let allMusic = [
     src: "music/Cao-ốc-20.mp3"
   },
   {
-    name: "Chạnh lòng thương cô v1",
-    img: "image/thumnail.png",
-    src: "music/Chạnh-lòng-thương-cô-v1.mp3"
-  },
-  {
     name: "Chẳng ai hiểu về tình yêu",
     img: "image/thumnail.png",
     src: "music/Chẳng-ai-hiểu-về-tình-yêu.mp3"
